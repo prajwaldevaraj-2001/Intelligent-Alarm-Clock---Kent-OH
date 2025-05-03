@@ -81,14 +81,9 @@ Intelligent_Alarm_Clock_Complete/
 
 ---
 
-## 📸 Demo Screenshot
-
-*(Insert screenshot if needed)*
-
 ---
 
 ## 👨‍💻 Developed by
 
 **Prajwal Devaraj**  
 Kent State University  
-B.Tech Final Year Project
