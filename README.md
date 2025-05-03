@@ -34,7 +34,6 @@ This project is a smart IoT-inspired dashboard that provides real-time weather c
 - A C++ compiler (e.g. `g++`)
 - CMake
 - libcurl
-- Python (to serve frontend if needed)
 
 ### 🧪 Build & Run Backend (C++)
 
