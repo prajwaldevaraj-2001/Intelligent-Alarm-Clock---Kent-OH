@@ -4,18 +4,18 @@ This project is a smart IoT-inspired dashboard that provides real-time weather c
 
 ---
 
-## 🔧 Features
+## Features
 
-- ⏰ Live Clock
-- 🌦️ Real-time Weather (OpenWeatherMap API)
-- 🚌 Transit Data (Mocked, expandable to real-time)
-- 🔔 Alert System for Weather Conditions
-- 💅 Modern Web Dashboard UI
-- 🔁 Auto-refresh every 30 seconds
+-  Live Clock
+-  Real-time Weather (OpenWeatherMap API)
+-  Transit Data (Mocked, expandable to real-time)
+-  Alert System for Weather Conditions
+-  Modern Web Dashboard UI
+-  Auto-refresh every 30 seconds
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 
 | Component     | Tech                          |
 |---------------|-------------------------------|
@@ -27,15 +27,15 @@ This project is a smart IoT-inspired dashboard that provides real-time weather c
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 📌 Requirements
+###  Requirements
 
 - A C++ compiler (e.g. `g++`)
 - CMake
 - libcurl
 
-### 🧪 Build & Run Backend (C++)
+###  Build & Run Backend (C++)
 
 ```bash
 cd backend
@@ -46,7 +46,7 @@ make
 ./dashboard
 ```
 
-### 🌐 Run the Frontend
+###  Run the Frontend
 
 ```bash
 cd frontend
@@ -61,7 +61,7 @@ http://localhost:8080
 
 ---
 
-## 📦 Folder Structure
+##  Folder Structure
 
 ```
 Intelligent_Alarm_Clock_Complete/
@@ -72,7 +72,7 @@ Intelligent_Alarm_Clock_Complete/
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - Weather is fetched live using the API key: `8ba6252ebf04116772c8f1324495bf85`
 - Transit logic is mocked but easily extendable to real-time APIs such as Passio GO!
@@ -82,7 +82,7 @@ Intelligent_Alarm_Clock_Complete/
 
 ---
 
-## 👨‍💻 Developed by
+##  Developed by
 
 **Prajwal Devaraj**  
 Kent State University  
