@@ -85,4 +85,5 @@ Intelligent_Alarm_Clock_Complete/
 ##  Developed by
 
 **Prajwal Devaraj**  
-Kent State University  
+
+pdevaraj001@gmail.com
